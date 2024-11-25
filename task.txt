@@ -1,0 +1,52 @@
+
+
+1. How do you find the IP address of your Linux system? ipconfig
+2. How can you find files larger than a specific size on Linux?du -sh|sort -rn
+3. How do you check disk usage for all directories on your system? df -h
+4. What command do you use to check memory usage on Linux? mem -info
+5. How do you view the last 100 lines of a log file? more filename
+6. How do you recursively copy an entire directory structure in Linux? cp -R
+7. What command would you use to view running processes and their resource usage? ps -efx
+8. How do you search for a specific string
+9. How do you extract a .tar.gz file? tar xvf filename.tar
+10. How can you monitor real-time disk I/O?
+11. How do you count the number of lines in a file?
+12. How can you show the last login details of users on the system? w
+13. How do you kill a process by name?pkill pid
+14. How do you create a symbolic link in Linux?
+15. What is the difference between a hard link and a symbolic link?
+16. How do you display the contents of a text file with line numbers?
+17. How do you schedule a one-time task on Linux?
+18. How can you list op
+18. How can you list open network connections and listening ports?
+19. How do you change file permissions recursively in Linux?
+20. How can you count the number of files and directories in a directory?
+
+
+
+What is Git, and why is it important in DevOps?
+How do you clone a repository?
+What is the difference between git pull and git fetch?
+What is the purpose of git init?
+How would you undo your last commit without removing the changes from your working directory?
+Explain the difference between git merge and git rebase.
+How do you create and switch to a new branch?
+How would you resolve merge conflicts?
+What is a pull request (PR), and how is it used in CI/CD pipelines?
+How do you keep your feature
+
+
+
+
+
+
+1. How do you list all files, including hidden files, in the current directory? ls -lsa
+2. How can you create a new directory named projects? mkdir projects
+3. How do you navigate into a directory called projects? cd projects
+4. Which command creates an empty file named notes.txt? touch notes.txt
+5. How can you display the contents of the file notes.txt? cat note.txt
+6. How do you copy a file named notes.txt to notes_backup.txt in the same directory?cp notes.txt notes_backup.txt 
+7. How do you move notes_backup.txt to a directory called backup?mkdir backup, mv notes_backup.txt /root/projects/backup/
+8. What command deletes the file notes.txt? rm notes.txt
+9. How do you display the first 10 lines of a file named logfile.txt? head -10 logfile.txt
+10. Which command shows the last 5 lines of logfile.txt? tail -5 logfile.txt
